@@ -3,7 +3,7 @@ Maya Numerals is a package that converts numbers written in Western digits into 
      
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Dresden_Codex_f8461796.png" height="200" width="240">
+<img src="https://raw.githubusercontent.com/ian-nai/maya_numerals/main/maya_readme_image.png" height="200" width="240">
 </p>
 
 ## Installation and Usage
