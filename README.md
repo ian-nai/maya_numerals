@@ -9,7 +9,7 @@ Maya Numerals is a package that converts numbers written in Western digits into 
 ## Installation and Usage
 Install using pip:
 ```
-pip3 install mayanumerals
+pip3 install maya_numerals
 ```
 
 Maya Numerals takes a single integer as an argument. You can use the package on an integer with the following syntax:
